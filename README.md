@@ -15,7 +15,7 @@
 Creating Systems which simplify living, improve technology, and push the boundaries of intelligent systems.
 
 ## 📫 How To Reach Me 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kamalnayan-thakur-497918367/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kamalnayan-thakur)
 - [![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kamalnayanfl)
 - [![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com/YOURUSERNAME)
 - [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/YOURUSERNAME)
